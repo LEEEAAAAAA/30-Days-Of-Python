@@ -1,0 +1,7 @@
+[project]
+name = "30-days-of-python"
+version = "0.1.0"
+requires-python = ">=3.9"
+dependencies = [
+    "var>=2024.3.0",
+]
